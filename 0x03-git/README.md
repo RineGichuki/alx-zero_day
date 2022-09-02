@@ -1,1 +1,1 @@
-Project is focused on creating a new directory
+Project is focused on be up to date
