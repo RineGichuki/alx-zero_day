@@ -1,1 +1,1 @@
-My first readme
+This is the repository for the first git assignment
